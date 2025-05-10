@@ -2,7 +2,7 @@ Beaker==1.5.4
 BeautifulSoup==3.2.1
 BitTorrent==4.4.0
 Brlapi==0.5.6
-Django==1.6.1
+Django==4.2.21
 GitPython==0.1.7
 IPy==0.75
 Jinja2==2.7.2
@@ -139,3 +139,4 @@ wsgiref==0.1.2
 yum-metadata-parser==1.1.4
 yum-presto==0.4.4
 zope.interface==4.0.5
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
