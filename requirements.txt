@@ -2,7 +2,7 @@ Beaker==1.5.4
 BeautifulSoup==3.2.1
 BitTorrent==4.4.0
 Brlapi==0.5.6
-Django==1.6.1
+Django==4.2.27
 GitPython==0.1.7
 IPy==0.75
 Jinja2==2.7.2
@@ -121,7 +121,7 @@ slip.dbus==0.2.24
 slip.gtk==0.2.24
 sorl-thumbnail==11.12
 spyder==2.2.5
-sqlparse==0.1.10
+sqlparse==0.5.4
 static==0.4
 stevedore==0.12
 sympy==0.7.1
