@@ -17,7 +17,7 @@ Pillow==2.1.0
 PyYAML==3.10
 Pygments==1.6
 PythonCAD==DS1-R37
-Scrapy==0.22.0
+Scrapy==2.14.0
 South==0.8.4
 Tempita==0.4
 Twisted==13.2.0
